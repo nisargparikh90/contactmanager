@@ -114,7 +114,7 @@ class AddContact extends Component {
 
                         return (
                             <div className="card mb-3">
-                                <div className="card-header">Add Contact</div>
+                                <div className="card-header">Add Contact.</div>
                                 <div className="card-body">
                                     <form onSubmit={this.onSubmitHandler.bind(this, dispatch)}>
 
